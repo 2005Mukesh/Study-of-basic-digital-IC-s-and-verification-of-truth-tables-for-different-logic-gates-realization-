@@ -1,7 +1,6 @@
 ### Name: MUKESH R
 ### Register Number: 23006020
-### Experiment-1:
-Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+### Experiment1: Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 ### AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
