@@ -1,6 +1,6 @@
 ### Name: MUKESH R
 ### Register Number: 23006020
-### Experiment1: Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+### Experiment1: Study of basic digital IC s and verification of truth tables for different logic gates realization
 ### AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -83,5 +83,7 @@ endmodule
 ### RTL Realization:
 ![image](https://github.com/2005Mukesh/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849308/fddc8d81-61ca-47f0-88bd-8c0ca7c81e64)
 ### Wave form:
+![image](https://github.com/2005Mukesh/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849308/c09a93fd-9374-4e9b-8499-5df39c4aeaa6)
+
 ### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
